@@ -35,7 +35,7 @@ serverless-container-assignment/
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ Setup Instructions  
 
 ### ✅ 1️⃣ Clone this repository
 
@@ -45,7 +45,7 @@ cd serverless-container-assignment
 
 
 ✅ 2️⃣ Install Docker
-Make sure you have Docker and Docker Compose installed.
+Make sure you have Docker    and Docker Compose installed.
 
 Download Docker Desktop 
 
@@ -70,3 +70,12 @@ User Service Running!
 
 ✅ 5️⃣ Stop the Services
 docker-compose down
+
+<img width="948" alt="docker-iamge-container" src="https://github.com/user-attachments/assets/54d76ee3-5105-4459-a1cf-973f4c44fb3c" />
+
+
+![image](https://github.com/user-attachments/assets/d5543932-e28a-4f37-b9f6-726ffacaf857)
+
+
+
+
